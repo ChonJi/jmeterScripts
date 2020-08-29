@@ -1,0 +1,1 @@
+.\jmeter -n -t C:\Users\admremek\Desktop\jmeterszkolenie\jmeterScripts\web\demoblaze.com_ui_perfomance_tests.jmx -l C:\Users\admremek\Desktop\jmeterszkolenie\jmeterScripts\web\report\results.csv -e -o C:\Users\admremek\Desktop\jmeterszkolenie\jmeterScripts\web\report\ -Jusers=100 -Jloops=10
