@@ -1,0 +1,5 @@
+thread,id,responseCode,assert,value
+1,1,200,name,fox
+2,2,404,message,Pet not found
+3,3,404,message,Pet not found
+4,21,200,name,Minionek
